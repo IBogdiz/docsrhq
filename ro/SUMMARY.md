@@ -26,8 +26,25 @@
 ## Game hosting
 
 * [Panoul de jocuri](game-hosting/overview.md)
+* [Server FiveM](game-hosting/fivem.md)
+* [Server Minecraft](game-hosting/minecraft.md)
 * [Server Rust](game-hosting/rust.md)
+* [Server Counter-Strike 2](game-hosting/cs2.md)
+* [Server Valheim](game-hosting/valheim.md)
+* [Server BeamMP](game-hosting/beammp.md)
+* [Server Garry's Mod](game-hosting/gmod.md)
+* [Server Terraria](game-hosting/terraria.md)
+* [Server Project Zomboid](game-hosting/zomboid.md)
+* [Server Left 4 Dead 2](game-hosting/l4d2.md)
 * [Server RedM](game-hosting/redm.md)
 * [Server Euro Truck Simulator 2](game-hosting/euro-truck-simulator-2.md)
+* [Server Counter-Strike 1.6](game-hosting/cs16.md)
+* [Server Unturned](game-hosting/unturned.md)
+* [Server Hytale](game-hosting/hytale.md)
 * [FXServer pe Windows](game-hosting/fxserver-windows.md)
 * [FXServer pe Linux](game-hosting/fxserver-linux.md)
+
+## App hosting
+
+* [Hosting Node.js](app-hosting/nodejs.md)
+* [Hosting Python](app-hosting/python.md)

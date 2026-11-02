@@ -1,12 +1,23 @@
 # Table of contents
 
-* [RHQ Hosting Docs](README.md)
+* [Welcome to RHQ Docs](README.md)
 
-## Servers & network
+## VPS & Dedicated
 
-* [Firewall](servers-network/firewall.md)
-* [OpenVPN setup](servers-network/openvpn-setup.md)
-* [Wireshark (.pcap) analysis](servers-network/wireshark-pcap.md)
+* [Windows](vps-dedicated/windows/README.md)
+  * [Connect with RDP](vps-dedicated/windows/rdp-connect.md)
+  * [Open ports on Windows](vps-dedicated/windows/windows-ports.md)
+  * [Change your Windows password](vps-dedicated/windows/password-reset.md)
+  * [MariaDB and HeidiSQL](vps-dedicated/windows/mariadb-heidisql.md)
+* [Linux](vps-dedicated/linux/README.md)
+  * [RHQ Game Installer](vps-dedicated/linux/rhq-game-installer.md)
+  * [Install Node.js](vps-dedicated/linux/nodejs-install.md)
+  * [Install PHP](vps-dedicated/linux/php-install.md)
+  * [Nginx configuration](vps-dedicated/linux/nginx-config.md)
+* [Network & security](vps-dedicated/network/README.md)
+  * [Firewall](vps-dedicated/network/firewall.md)
+  * [OpenVPN setup](vps-dedicated/network/openvpn-setup.md)
+  * [Wireshark (.pcap) analysis](vps-dedicated/network/wireshark-pcap.md)
 
 ## Domains & web
 
@@ -18,3 +29,5 @@
 * [Rust server](game-hosting/rust.md)
 * [RedM server](game-hosting/redm.md)
 * [Euro Truck Simulator 2 server](game-hosting/euro-truck-simulator-2.md)
+* [FXServer on Windows](game-hosting/fxserver-windows.md)
+* [FXServer on Linux](game-hosting/fxserver-linux.md)

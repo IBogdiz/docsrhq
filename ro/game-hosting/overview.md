@@ -26,5 +26,5 @@ Toate serverele de jocuri RHQ rulează pe panoul nostru (Pterodactyl). Panoul ar
 
 ## Ghiduri înrudite
 
-* [Firewall](../servers-network/firewall.md): controlează cine poate ajunge la serverul tău.
+* [Firewall](../vps-dedicated/network/firewall.md): controlează cine poate ajunge la serverul tău.
 * [Cloudflare + domeniul tău](../domains-web/cloudflare-domain.md): folosește o adresă proprie, de exemplu `play.domeniultau.ro`.

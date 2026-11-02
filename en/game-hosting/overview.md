@@ -26,5 +26,5 @@ Always **stop** the server before editing important files. Some games overwrite 
 
 ## Related guides
 
-* [Firewall](../servers-network/firewall.md): control who can reach your server.
+* [Firewall](../vps-dedicated/network/firewall.md): control who can reach your server.
 * [Cloudflare + your domain](../domains-web/cloudflare-domain.md): use a custom address such as `play.yourdomain.com`.

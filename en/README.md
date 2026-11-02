@@ -1,6 +1,8 @@
 ---
 description: "Guides and tutorials for RHQ Hosting clients."
 icon: hand-wave
+cover: .gitbook/assets/cover-rhq.png
+coverY: 0
 ---
 
 # Welcome to RHQ Docs

@@ -1,6 +1,8 @@
 ---
 description: "How the RHQ game panel works: console, files, startup settings and the guides for each game."
 icon: gamepad-modern
+cover: ../.gitbook/assets/cover-rhq.png
+coverY: 0
 ---
 
 # Game hosting overview

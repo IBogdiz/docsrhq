@@ -1,6 +1,8 @@
 ---
 description: "Ghiduri și tutoriale pentru clienții RHQ Hosting."
 icon: hand-wave
+cover: .gitbook/assets/cover-rhq.png
+coverY: 0
 ---
 
 # Bine ați venit în documentația RHQ

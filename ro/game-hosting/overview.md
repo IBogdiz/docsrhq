@@ -1,6 +1,8 @@
 ---
 description: "Cum funcționează panoul de jocuri RHQ: consolă, fișiere, setări de pornire și ghidurile pentru fiecare joc."
 icon: gamepad-modern
+cover: ../.gitbook/assets/cover-rhq.png
+coverY: 0
 ---
 
 # Panoul de jocuri

@@ -37,8 +37,6 @@ Completează câmpul gol cu adresa IP a VPS-ului.
 ### Confirmă conexiunea
 
 După autentificare, apasă **Yes** în fereastra care apare.
-
-<figure><img src="../../.gitbook/assets/rdp-04-confirm.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

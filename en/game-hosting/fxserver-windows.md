@@ -16,6 +16,8 @@ You need a **Cfx.re account** to link and run the server.
 ### Check the files
 
 Make sure all the necessary files are present in the extracted directory to avoid startup errors. When the files are correctly downloaded and in place, continue with starting the server.
+
+<figure><img src="../.gitbook/assets/fx-00-files.png" alt="" width="520"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -37,7 +39,7 @@ A page should open in your browser. Make sure the PIN is filled in and click **L
 {% step %}
 ### Log in to Cfx.re
 
-Log in to your Cfx.re account in this tab, then click **Yes, Allow**.
+Log in to your Cfx.re account in this tab, then click **Continue**.
 
 <div align="left"><figure><img src="../.gitbook/assets/fx-03-login.png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}

@@ -37,8 +37,6 @@ Fill in the empty field with the IP address of your VPS.
 ### Confirm the connection
 
 After authenticating, click **Yes** in the window that appears.
-
-<figure><img src="../../.gitbook/assets/rdp-04-confirm.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

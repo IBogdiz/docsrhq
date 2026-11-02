@@ -16,6 +16,8 @@ Ai nevoie neapărat de un **cont Cfx.re** ca să legi și să rulezi serverul.
 ### Verifică fișierele
 
 Asigură-te că toate fișierele necesare sunt prezente în directorul extras, ca să eviți erorile la pornire. După ce fișierele sunt descărcate și plasate corect, treci la pornirea serverului.
+
+<figure><img src="../.gitbook/assets/fx-00-files.png" alt="" width="520"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -37,7 +39,7 @@ O pagină ar trebui să se deschidă în browser. Asigură-te că PIN-ul este co
 {% step %}
 ### Autentifică-te la Cfx.re
 
-Conectează-te la contul tău Cfx.re în această filă, apoi apasă **Yes, Allow**.
+Conectează-te la contul tău Cfx.re în această filă, apoi apasă **Continue**.
 
 <div align="left"><figure><img src="../.gitbook/assets/fx-03-login.png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
